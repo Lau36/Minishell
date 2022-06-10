@@ -1,3 +1,14 @@
+/*
+ * Este programa genera tres comandos nuevos, el primer comando realiza la salida de la ejecucion del programa, 
+ * el segundo hace un listado de los procesos que estan en background y
+ * el tercer comando detiene un proceso que esta en segundo plano por medio de su ID.
+ * 
+ * Modificado por: 
+Carlos Andres Borja - 2040507
+Laura Jaimes - 2040430 
+Deisy Melo - 2041790
+ * Fecha: 2022-06-08
+ */
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h>

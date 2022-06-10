@@ -2,8 +2,11 @@
  * Este programa muestra como leer varias palabras del teclado (stdin)
  * Codigo tomado de: https://www.programiz.com/c-programming/c-strings
  *
- * Modificado por: John Sanabria - john.sanabria@correounivalle.edu.co
- * Fecha: 2021-02-26
+ * Modificado por: 
+Carlos Andres Borja - 2040507
+Laura Jaimes - 2040430 
+Deisy Melo - 2041790
+ * Fecha: 2022-06-09
  */
 #include <assert.h>
 #include <stdio.h>
